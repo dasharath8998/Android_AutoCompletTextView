@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ACTV_Demo</string>
+
+    <string-array name="countries">
+        <item>Australia</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Srilanka</item>
+        <item>Ireland</item>
+        <item>Italy</item>
+    </string-array>
+
+    <string name="name">Enter Country Name:</string>
+</resources>
